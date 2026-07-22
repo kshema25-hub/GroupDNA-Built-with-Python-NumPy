@@ -278,7 +278,7 @@ Adichunchanagiri Institute of Technology (VTU)
 
 GitHub: https://github.com/kshema25-hub/GroupDNA-Built-with-Python-NumPy.git
 
-LinkedIn: linkedin.com/in/kshema-gowda-17905a361
+LinkedIn: https://www.linkedin.com/posts/kshema-gowda-17905a361_python-numpy-datascience-activity-7485722506075627521-ZYUd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFni6W0BlPSTRwi8JtT2LM7O8LKJuhH0dyM
 
 ---
 
