@@ -242,20 +242,6 @@ hostel_bois.txt
 Run all notebook cells.
 
 ---
-
-# 📸 Screenshots
-
-Add screenshots here after running the notebook.
-
-Example:
-
-- Group Overview
-- Activity Heatmap
-- Favourite Words
-- Personality Report
-
----
-
 # 📚 Concepts Used
 
 - File Handling
