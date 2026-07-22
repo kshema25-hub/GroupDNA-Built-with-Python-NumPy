@@ -276,9 +276,9 @@ Run all notebook cells.
 🎓 B.E. Data Science  
 Adichunchanagiri Institute of Technology (VTU)
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/kshema25-hub/GroupDNA-Built-with-Python-NumPy.git
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: linkedin.com/in/kshema-gowda-17905a361
 
 ---
 
